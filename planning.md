@@ -24,7 +24,6 @@ Examples:
     I’m going to start in the fall semester and I chose accounting for my major. On the student portal, it shows a check for my ELA and math placement even though they never sent me an appointment and I never took those exams. I also was sent a email about a summer math immersion program which also said that my math placement was MTH1030 but I took AP Calc BC and AP Stats in hs and I had good grades so I feel that I should have been placed into a more advanced level class. Also do all freshmen have the exact same classes for the first semester? My schedule shows that I have 6 classes including a music in civilization course."
 
     2. "CLEP Marketing 3000 vs taking it at Baruch — what would you do?
-    Academics
     I’m choosing between taking the CLEP exam for Marketing 3000 or taking the actual class at Baruch.
 
     CLEP = easy pass/fail credit, but no GPA impact
@@ -59,9 +58,26 @@ An edge case where it post could be labeled either academics or career.
 "MS in Quant Finance
 I'm thinking of pursuing masters in Quant Finance from Baruch. How is the college and this course specifically? Can any alumnus or student help?"
 
+Another example:
+"Baruch Graduation Gown
+
+Hi everyone,
+I graduated from Baruch this June and am looking to sell my cap and gown. I know how expensive it can be to buy a brand-new set that you’ll only wear once, so I figured I’d see if any upcoming graduates are interested! The gown fits someone who is approximately 5’5”–5’6” and includes: cap, gown and zicklin hood. It was only worn once and there are no stains. Dm for pricing !"
+
+    - I don't know what to label this 
+
+Another Example:
+"Is it me but why do Baruch college students have a big ego thinking they have the right to look down upon other schools and NYC and think that they’re on the same level as NYU and Columbia? LOL don’t get me wrong. It’s a good school, but it’s not as rigorous where people should be having egos because technically anyone can get into Baruch if they can’t get in the traditional route. The other day, this guy who attends Baruch told me that NYU and Baruch is the same essentially which is the biggest cope I ever heard in my life."
+
+This one sounds like a rant. It doesn't particularly fit into campus life, but since it talks about students experience interacting with other students, I'll label is campus life. 
+
 I am going to look at what their intended reason to ask the question is. If they asking for career oriented question or classes. For this example, the person seem to be curious about pursuing master's degree at Baruch and aspire to get into Quant Finance in the future. I will label is academics. 
 
 I won't use AI to pre-label the data. 
+
+For my data labels, I will have 3 columns: title of the post, actual content, classification label 
+
+I didn't have enough time. I was able to collect 25 examples. 
 
 ## Failure Analysis
 
